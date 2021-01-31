@@ -1,8 +1,6 @@
 "rehearsal" {
 version 5
 EZX "SL-SUPERIOR_DRUMMER_3"
-xmics {
-}
 kit {
 s3kit
 "KickR" "SL-SUPERIOR_DRUMMER_3" "KickR" "Kick05" "Felt" 1
@@ -11,8 +9,8 @@ s3kit
 "Tom1" "SL-SUPERIOR_DRUMMER_3" "Tom1" "Tom5-1" "Drumsticks" 1
 "Tom2" "SL-SUPERIOR_DRUMMER_3" "Tom2" "Tom5-2" "Drumsticks" 1
 "Tom3" "SL-SUPERIOR_DRUMMER_3" "Tom3" "" "Drumsticks" 1
-"Tom4" "SL-SUPERIOR_DRUMMER_3" "Tom4" "Tom5-4" "Drumsticks" 1
-"Tom5" "SL-SUPERIOR_DRUMMER_3" "Tom5" "Tom5-5" "Drumsticks" 1
+"Tom4" "SL-SUPERIOR_DRUMMER_3" "Tom4" "Tom4-5" "Drumsticks" 1
+"Tom5" "SL-SUPERIOR_DRUMMER_3" "Tom5" "Tom4-6" "Drumsticks" 1
 "Cymbal1" "SL-SUPERIOR_DRUMMER_3" "Cymbal1" "" "Drumsticks" 0
 "Cymbal2" "SL-SUPERIOR_DRUMMER_3" "Cymbal2" "cymbal2_3" "Drumsticks" 0
 "Cymbal3" "SL-SUPERIOR_DRUMMER_3" "Cymbal3" "" "Drumsticks" 0
@@ -392,7 +390,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -409,7 +407,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -426,7 +424,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -443,7 +441,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -460,7 +458,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -477,7 +475,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -494,7 +492,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -511,7 +509,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -528,7 +526,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -545,7 +543,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -562,7 +560,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -579,7 +577,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -596,7 +594,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -613,7 +611,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -630,7 +628,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -647,7 +645,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -664,7 +662,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -681,7 +679,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -697,7 +695,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -713,7 +711,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -729,7 +727,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -745,7 +743,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -761,7 +759,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -777,7 +775,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -794,7 +792,7 @@ velocityknee L 5
 cycle S 
 velvol
 autoattackctrl 1
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 blocksounds
 veltrafooff
@@ -811,7 +809,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -827,7 +825,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -843,7 +841,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -859,7 +857,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -875,7 +873,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -891,7 +889,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -907,7 +905,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -923,7 +921,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -939,7 +937,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -955,7 +953,7 @@ usemic "Hats" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
  cycle NOT S 
 cycle NOT H 
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -972,7 +970,7 @@ velocityknee L 5
 cycle S 
 velvol
 sendnoteoff
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -993,7 +991,7 @@ velocityknee L 5
 cycle S 
 velvol
 sendnoteoff
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -1010,7 +1008,7 @@ velocityknee L 5
 cycle S 
 velvol
 sendnoteoff
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -1027,7 +1025,7 @@ velocityknee L 5
 cycle S 
 velvol
 sendnoteoff
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -1044,7 +1042,7 @@ velocityknee L 5
 cycle S 
 velvol
 sendnoteoff
-pvolume 0.709994
+pvolume 0.791049
 maxpoly 8
 veltrafooff
 curve {
@@ -1445,7 +1443,7 @@ close  0 0 0
 laylims {
 "Tom4" 4 4 4
 }
-drum "Tom5-4"  "Drumsticks" 1
+drum "Tom4-5"  "Drumsticks" 1
 pads {
 pad tom4MT {
 usemic "SnareBottom" "SnareBottomR" "Tom4" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
@@ -1545,13 +1543,14 @@ close  0 0 0
 laylims {
 "Tom5" 4 4 4
 }
-drum "Tom5-5"  "Drumsticks" 1
+drum "Tom4-6"  "Drumsticks" 1
 pads {
 pad tom5MT {
 usemic "SnareBottom" "SnareBottomR" "Tom5" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88" "Ambience-R88R"
 velocityknee L 5
 cycle S 
 velvol
+pvolume 1.11872
 maxpoly 8
 blocksounds
 veltrafooff
@@ -1561,6 +1560,7 @@ usemic "SnareBottom" "SnareBottomR" "Tom5" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88"
 velocityknee L 5
 cycle S 
 velvol
+pvolume 1.11872
 maxpoly 8
 veltrafooff
 }
@@ -1569,6 +1569,7 @@ usemic "SnareBottom" "SnareBottomR" "Tom5" "Oh-Beyer" "Oh-BeyerR" "Ambience-R88"
 velocityknee L 5
 cycle S 
 velvol
+pvolume 1.11872
 maxpoly 8
 veltrafooff
 }
@@ -1578,6 +1579,7 @@ velocityknee L 5
 cycle S 
 velvol
 autoattackctrl 0.398107
+pvolume 1.11872
 maxpoly 8
 veltrafooff
 }
