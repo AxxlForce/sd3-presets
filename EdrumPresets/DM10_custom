@@ -1,4 +1,4 @@
-"DM10_custom_v2" {
+"DM10_custom" {
 note 25 transpose 59
 note 26 transpose 59
 note 28 transpose 57
@@ -28,6 +28,7 @@ note 94 transpose 22
 note 95 transpose 7
 note 96 transpose 23
 controller 1 transpose 4
+ToAt 34 
 Trafo 30 {
 curve {
 linear 1
@@ -83,5 +84,4 @@ StoredTrafo 132 {
 lo 0 20
 }
 ATThreshold
-Altered
 }
